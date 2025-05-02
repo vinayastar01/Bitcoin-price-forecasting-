@@ -1,13 +1,12 @@
-# 🚀 Bitcoin Price Forecasting with Deep Learning
+# 🚀 Bitcoin Price Forecasting with TensorFlow
 
-![📈 Bitcoin Price Prediction Example](results/prediction_example.png)
+![📈 Bitcoin Price Prediction Example]
 
 Time series forecasting project using deep learning to predict Bitcoin prices (2013–2021). Implements and compares multiple model architectures including Dense networks, CNN, and LSTM.
 
 ## 🗂 Table of Contents
 - [📌 Project Overview](#project-overview)
 - [✨ Key Features](#key-features)
-- [💾 Installation](#installation)
 - [⚙️ Usage](#usage)
 - [📊 Results](#results)
 - [📁 File Structure](#file-structure)
@@ -36,17 +35,6 @@ This project implements and compares different deep learning architectures for t
 - 📊 Visualization utilities
 - 📐 Performance metrics comparison
 
-## 💾 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/bitcoin-forecasting.git
-cd bitcoin-forecasting
-```
-
-2. Install requirements:
-```bash
-pip install -r requirements.txt
 ```
 
 ## ⚙️ Usage
@@ -92,17 +80,6 @@ bitcoin-forecasting/
 │   ├── model_2_dense.keras
 │   ├── model_3_conv1D.keras
 │   └── model_4_LSTM.keras
-├── notebooks/
-│   └── Bitcoin_Price_Forecasting.ipynb
-├── src/
-│   ├── data_preprocessing.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── visualize.py
-├── results/
-│   ├── metrics_comparison.png
-│   └── prediction_examples.png
-├── requirements.txt
 └── README.md
 ```
 
@@ -111,6 +88,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**👤 Author:** [Your Name]  
-**📅 Date:** October 2023  
-**📬 Contact:** [your.email@example.com]
+**📬 Contact:** [edu.vinay123@gmail.com]
