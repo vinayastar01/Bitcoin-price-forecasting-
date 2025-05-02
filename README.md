@@ -4,6 +4,10 @@
 
 Time series forecasting project using deep learning to predict Bitcoin prices (2013–2021). Implements and compares multiple model architectures including Dense networks, CNN, and LSTM.
 
+![download (2)](https://github.com/user-attachments/assets/e61fbf53-641b-4ceb-9328-11e277987c28)
+![download3](https://github.com/user-attachments/assets/54c532a1-9657-42c5-a1e7-a8b487812e81)
+
+
 ## 🗂 Table of Contents
 - [📌 Project Overview](#project-overview)
 - [✨ Key Features](#key-features)
